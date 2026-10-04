@@ -1,0 +1,47 @@
+CRUDE OIL PRICE ANALYSIS DASHBOARD - PROJECT DESCRIPTION
+
+Project Title:
+Crude Oil Price Analysis Dashboard
+
+Project Overview:
+This project presents an interactive Power BI dashboard for analyzing Brent and WTI crude-oil prices. The dashboard combines three headline KPI cards, historical trend analysis, monthly comparison, daily price-change analysis, Brent-WTI spread analysis, yearly comparison, and an interactive Year/Month slicer.
+
+Project Objective:
+The objective is to provide a clear visual summary of crude-oil price behavior and allow users to compare Brent and WTI across different time periods.
+
+Key Dashboard Components:
+1. Average WTI Price KPI
+2. Average Brent Price KPI
+3. Average Brent-WTI Spread KPI
+4. Brent vs WTI Crude Oil Price Trend
+5. Monthly Brent vs WTI Price
+6. Brent vs WTI Daily Price Change (%)
+7. Brent-WTI Price Spread Trend
+8. Yearly Average Brent vs WTI Price
+9. Year/Month interactive slicer
+
+Dashboard KPI values in the unfiltered view:
+- Average WTI Price: 53.42
+- Average Brent Price: 55.63
+- Average Brent-WTI Spread: 2.21
+
+Main Observations:
+- Brent and WTI generally move in similar directions in the dashboard trend views.
+- The overall dashboard view shows Brent above WTI on average, with an average spread of 2.21.
+- The Brent-WTI spread changes over time rather than remaining constant.
+- Daily price-change values are concentrated around the zero level, with larger positive and negative movements at selected periods.
+- The monthly and yearly visuals show substantial variation across the historical period.
+- The Year/Month slicer allows the user to focus the same dashboard on a selected period.
+
+Tools:
+- Python / Google Colab for data preparation and analysis
+- Microsoft Power BI for interactive dashboard development
+
+Report Scope:
+All numerical values and observations in this description are based only on the completed dashboard and its supplied screenshot. The dashboard is descriptive and does not establish causal explanations for price movements.
+
+Deliverables:
+- Power BI dashboard (.pbix)
+- Cleaned dataset
+- Dashboard screenshot
+- Project report and description
